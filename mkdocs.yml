@@ -1,0 +1,14 @@
+site_name: Medical Knowledge
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Symptoms:
+      - Chest Pain: symptoms/chest_pain.md
+  - Diseases:
+      - DKA: diseases/dka.md
+  - Protocols:
+      - Antibiotic Guide: protocols/antibiotic_guide.md
+  - Tools:
+      - Stroke Checklist: tools/stroke_checklist.md
